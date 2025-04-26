@@ -1,2 +1,2 @@
 # presenter-slidedecks
-Collection of presentations for speaking events.
+Shareable presentations for speaking events.
